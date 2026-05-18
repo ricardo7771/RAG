@@ -1,0 +1,41 @@
+# Dependencias
+node_modules/
+
+# Base vectorial
+lancedb/
+
+# Archivos generados
+evaluacion/resultados.json
+evaluacion/estadisticas.json
+
+# Variables de entorno
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+tmp/
+temp/
+
+# Cache
+.cache/
+
+# Ollama modelos temporales
+ollama.log
+
+# Archivos compilados
+dist/
+build/
+
+# Coverage
+coverage/

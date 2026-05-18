@@ -1,0 +1,18 @@
+[
+  {
+    "pregunta": "¿Qué es una base de datos vectorial?",
+    "respuesta_correcta": "La base de datos vectorial almacena vectores para búsqueda semántica."
+  },
+  {
+    "pregunta": "¿Qué es chunking?",
+    "respuesta_correcta": "Chunking divide documentos en fragmentos."
+  },
+  {
+    "pregunta": "¿Qué es retrieval?",
+    "respuesta_correcta": "Retrieval recupera información relevante."
+  },
+  {
+  "pregunta": "¿Qué es React Native?",
+  "respuesta_correcta": "No encontré información."
+}
+]
